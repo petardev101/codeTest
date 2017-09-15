@@ -1,0 +1,12 @@
+{
+  "name": "FEDcodingTest",
+  "version": "1.0.0",
+  "description": "RAZR Front-end Developer Coding Test",
+  "main": "index.js",
+  "author": "Matthew Larson",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.6"
+  }
+  "repository": "https://github.com/mlars84/codeTest.git"
+}

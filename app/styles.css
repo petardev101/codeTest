@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 1em 1em;
+}
+
+.square {
+  background: red;
+}
+
+.circle {
+  background: blue;
+  border-radius: 100%;
+}
